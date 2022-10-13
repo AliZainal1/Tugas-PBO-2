@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ali Zainal Abidin_Inheritance", "Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance.csproj", "{A1D9AEF6-A6F4-4F86-AE7E-E1AB6B04695C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D9AEF6-A6F4-4F86-AE7E-E1AB6B04695C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D9AEF6-A6F4-4F86-AE7E-E1AB6B04695C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D9AEF6-A6F4-4F86-AE7E-E1AB6B04695C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D9AEF6-A6F4-4F86-AE7E-E1AB6B04695C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4018E1-9A8E-4660-ABA6-5EBC31E1F7E2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.exe
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.deps.json
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.runtimeconfig.json
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.runtimeconfig.dev.json
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.dll
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.pdb
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.csproj.AssemblyReference.cache
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.AssemblyInfoInputs.cache
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.AssemblyInfo.cs
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.csproj.CoreCompileInputs.cache
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.dll
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.pdb
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Inheritance\Ali Zainal Abidin_Inheritance\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Inheritance.genruntimeconfig.cache

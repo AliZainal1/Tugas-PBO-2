@@ -1,0 +1,14 @@
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.exe
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.deps.json
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.runtimeconfig.json
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.runtimeconfig.dev.json
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.dll
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.pdb
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.csproj.AssemblyReference.cache
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.AssemblyInfoInputs.cache
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.AssemblyInfo.cs
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.csproj.CoreCompileInputs.cache
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.dll
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.pdb
+D:\Zainal\Tugas PBO\Ali Zainal Abidin_Modified\Ali Zainal Abidin_Modified\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_Modified.genruntimeconfig.cache

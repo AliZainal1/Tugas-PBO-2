@@ -1,0 +1,14 @@
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.exe
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.deps.json
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.runtimeconfig.json
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.runtimeconfig.dev.json
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.dll
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\bin\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.pdb
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.csproj.AssemblyReference.cache
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.AssemblyInfoInputs.cache
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.AssemblyInfo.cs
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.csproj.CoreCompileInputs.cache
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.dll
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.pdb
+D:\Zainal\Semester 3\Pemrograman Berorientasi Obyek\Tugas PBO 1\Ali Zainal Abidin_This and Super\Ali Zainal Abidin_This and Super\obj\Debug\netcoreapp3.1\Ali Zainal Abidin_This and Super.genruntimeconfig.cache
